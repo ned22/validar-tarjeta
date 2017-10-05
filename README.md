@@ -9,7 +9,7 @@
 
 4. sumar digitos y nuevos digitos 
 
-5. si la suma de los digitos y nuevos digitos, me da residuo de 10 entonces mi tarjeta es valida    
+5. si la suma de los digitos y nuevos digitos, me da residuo de 10 =0 entonces mi tarjeta es valida    
    comprobar si es una tarjeta valida
 
 ![validando tarjeta](http://www.nedgrafica.cl/imagenesnaty/card.jpg "DIAGRAMA DE FLUJO").
